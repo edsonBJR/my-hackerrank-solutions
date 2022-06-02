@@ -1,1 +1,1 @@
-# Repositorio - Minhas Solucoes aos problemas apresentados pelo HackerRank
+# Solucoes aos problemas apresentados pelo HackerRank
